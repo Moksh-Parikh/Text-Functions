@@ -1,1 +1,2 @@
-This repository is a collection of text functions for reading and printing values to and from the stdin and stdout streams. 2It has functions for printing in colour (yes I said "colour", I'm not a goofy ahh American... *mocks american accent* "color") and printing progress bars and loading circles with ASCII and ANSI escape codes.
+This repository is a collection of text functions for reading and printing values to and from the stdin and stdout streams.
+It has functions for printing in colour and printing progress bars and loading circles with ASCII and ANSI escape codes.
